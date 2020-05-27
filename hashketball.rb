@@ -1,12 +1,12 @@
 def game_hash
   hashketball = {
     home: {
-      ]team_name: "",
+      team_name: "",
       colors: [],
-      players: [
+      players: []
     },
     away: {
-      ]
+      
     }
   }
 end
